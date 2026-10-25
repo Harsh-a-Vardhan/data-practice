@@ -1,7 +1,6 @@
 # data-practice
 
-My ongoing practice solving SQL, pandas, and data problems, from DataLemur, LeetCode,
-and others, as I upskill for Technical Program Manager and Forward Deployed Engineer roles.
+My ongoing practice solving SQL, pandas, and data problems from DataLemur/LeetCode/others, as I upskill for Technical Program Manager, Deployment Strategist and Forward Deployed Engineer roles.
 
 Each file is one problem: where it came from, its difficulty, the question in my own
 words, my solution, and a short note on what tripped me up or what I learned.
