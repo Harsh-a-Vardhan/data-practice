@@ -4,7 +4,7 @@ Problem:    Employees Earning More Than Their Managers  (Medium)
 Question:   Find employees who earn more than their direct manager.
             Return employee_id and name.
 
-Table: employee(employee_id, name, salary, department_id, manager_id)
+Table Schema: employee(employee_id, name, salary, department_id, manager_id)
        manager_id points to another row's employee_id (NULL = no manager)
 */
 
